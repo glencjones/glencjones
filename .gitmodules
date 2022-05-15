@@ -1,0 +1,387 @@
+[submodule "alloy"]
+	path = alloy
+	url = https://github.com/glencjones/alloy.git
+[submodule "lnd-manage"]
+	path = lnd-manage
+	url = https://github.com/glencjones/lnd-manage.git
+[submodule "erigon"]
+	path = erigon
+	url = https://github.com/glencjones/erigon.git
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/glencjones/go-ethereum.git
+[submodule "shields"]
+	path = shields
+	url = https://github.com/glencjones/shields.git
+[submodule "pywallet"]
+	path = pywallet
+	url = https://github.com/glencjones/pywallet.git
+[submodule "bip39"]
+	path = bip39
+	url = https://github.com/glencjones/bip39.git
+[submodule "miningcore"]
+	path = miningcore
+	url = https://github.com/glencjones/miningcore.git
+[submodule "jgoodies"]
+	path = jgoodies
+	url = https://github.com/glencjones/jgoodies.git
+[submodule "bitaddress.org"]
+	path = bitaddress.org
+	url = https://github.com/glencjones/bitaddress.org.git
+[submodule "ruby2js"]
+	path = ruby2js
+	url = https://github.com/glencjones/ruby2js.git
+[submodule "web3j"]
+	path = web3j
+	url = https://github.com/glencjones/web3j.git
+[submodule "sparsehash"]
+	path = sparsehash
+	url = https://github.com/glencjones/sparsehash.git
+[submodule "js-stellar-base"]
+	path = js-stellar-base
+	url = https://github.com/glencjones/js-stellar-base.git
+[submodule "xdrgen"]
+	path = xdrgen
+	url = https://github.com/glencjones/xdrgen.git
+[submodule "emacs-solidity"]
+	path = emacs-solidity
+	url = https://github.com/glencjones/emacs-solidity.git
+[submodule "lnd-lightning-docs"]
+	path = lnd-lightning-docs
+	url = https://github.com/glencjones/lnd-lightning-docs.git
+[submodule "julia"]
+	path = julia
+	url = https://github.com/glencjones/julia.git
+[submodule "node-oncrpc"]
+	path = node-oncrpc
+	url = https://github.com/glencjones/node-oncrpc.git
+[submodule "lnd-mock"]
+	path = lnd-mock
+	url = https://github.com/glencjones/lnd-mock.git
+[submodule "open-source-badges"]
+	path = open-source-badges
+	url = https://github.com/glencjones/open-source-badges.git
+[submodule "org-jira"]
+	path = org-jira
+	url = https://github.com/glencjones/org-jira.git
+[submodule "lnd-pathfinding"]
+	path = lnd-pathfinding
+	url = https://github.com/glencjones/lnd-pathfinding.git
+[submodule "hunter"]
+	path = hunter
+	url = https://github.com/glencjones/hunter.git
+[submodule "tap-mocha-reporter"]
+	path = tap-mocha-reporter
+	url = https://github.com/glencjones/tap-mocha-reporter.git
+[submodule "js-xdr"]
+	path = js-xdr
+	url = https://github.com/glencjones/js-xdr.git
+[submodule "conflux-doc"]
+	path = conflux-doc
+	url = https://github.com/glencjones/conflux-doc.git
+[submodule "vertcoin-core"]
+	path = vertcoin-core
+	url = https://github.com/glencjones/vertcoin-core.git
+[submodule "one-click-miner-vnext"]
+	path = one-click-miner-vnext
+	url = https://github.com/glencjones/one-click-miner-vnext.git
+[submodule "blessed-contrib"]
+	path = blessed-contrib
+	url = https://github.com/glencjones/blessed-contrib.git
+[submodule "monero-pool"]
+	path = monero-pool
+	url = https://github.com/glencjones/monero-pool.git
+[submodule "kawpowminer"]
+	path = kawpowminer
+	url = https://github.com/glencjones/kawpowminer.git
+[submodule "monero"]
+	path = monero
+	url = https://github.com/glencjones/monero.git
+[submodule "xmrig-cuda"]
+	path = xmrig-cuda
+	url = https://github.com/glencjones/xmrig-cuda.git
+[submodule "turtlecoin-utils"]
+	path = turtlecoin-utils
+	url = https://github.com/glencjones/turtlecoin-utils.git
+[submodule "ccxt"]
+	path = ccxt
+	url = https://github.com/glencjones/ccxt.git
+[submodule "xmrig"]
+	path = xmrig
+	url = https://github.com/glencjones/xmrig.git
+[submodule "NiceHashMiner"]
+	path = NiceHashMiner
+	url = https://github.com/glencjones/NiceHashMiner.git
+[submodule "teamredminer"]
+	path = teamredminer
+	url = https://github.com/glencjones/teamredminer.git
+[submodule "node-stratum-pool"]
+	path = node-stratum-pool
+	url = https://github.com/glencjones/node-stratum-pool.git
+[submodule "z-nomp"]
+	path = z-nomp
+	url = https://github.com/glencjones/z-nomp.git
+[submodule "node-solo-pool"]
+	path = node-solo-pool
+	url = https://github.com/glencjones/node-solo-pool.git
+[submodule "nsfminer"]
+	path = nsfminer
+	url = https://github.com/glencjones/nsfminer.git
+[submodule "ethminer"]
+	path = ethminer
+	url = https://github.com/glencjones/ethminer.git
+[submodule "bitcoinjs-lib"]
+	path = bitcoinjs-lib
+	url = https://github.com/glencjones/bitcoinjs-lib.git
+[submodule "soci"]
+	path = soci
+	url = https://github.com/glencjones/soci.git
+[submodule "nanominer"]
+	path = nanominer
+	url = https://github.com/glencjones/nanominer.git
+[submodule "s-nomp"]
+	path = s-nomp
+	url = https://github.com/glencjones/s-nomp.git
+[submodule "bfgminer"]
+	path = bfgminer
+	url = https://github.com/glencjones/bfgminer.git
+[submodule "turtlecoin"]
+	path = turtlecoin
+	url = https://github.com/glencjones/turtlecoin.git
+[submodule "violetminer"]
+	path = violetminer
+	url = https://github.com/glencjones/violetminer.git
+[submodule "p2pool-vtc"]
+	path = p2pool-vtc
+	url = https://github.com/glencjones/p2pool-vtc.git
+[submodule "orgmode2techpdf"]
+	path = orgmode2techpdf
+	url = https://github.com/glencjones/orgmode2techpdf.git
+[submodule "blessed"]
+	path = blessed
+	url = https://github.com/glencjones/blessed.git
+[submodule "nodejs-pool"]
+	path = nodejs-pool
+	url = https://github.com/glencjones/nodejs-pool.git
+[submodule "yasa"]
+	path = yasa
+	url = https://github.com/glencjones/yasa.git
+[submodule "solo-pool"]
+	path = solo-pool
+	url = https://github.com/glencjones/solo-pool.git
+[submodule "bitcoin"]
+	path = bitcoin
+	url = https://github.com/glencjones/bitcoin.git
+[submodule "grin-miner"]
+	path = grin-miner
+	url = https://github.com/glencjones/grin-miner.git
+[submodule "awesome-emacs"]
+	path = awesome-emacs
+	url = https://github.com/glencjones/awesome-emacs.git
+[submodule "doom-exwm"]
+	path = doom-exwm
+	url = https://github.com/glencjones/doom-exwm.git
+[submodule "crafter-configs"]
+	path = crafter-configs
+	url = https://github.com/glencjones/crafter-configs.git
+[submodule "oh-my-posh"]
+	path = oh-my-posh
+	url = https://github.com/glencjones/oh-my-posh.git
+[submodule "edwina"]
+	path = edwina
+	url = https://github.com/glencjones/edwina.git
+[submodule "doom-emacs"]
+	path = doom-emacs
+	url = https://github.com/glencjones/doom-emacs.git
+[submodule "lnd-loop"]
+	path = lnd-loop
+	url = https://github.com/glencjones/lnd-loop.git
+[submodule "dts-xdr"]
+	path = dts-xdr
+	url = https://github.com/glencjones/dts-xdr.git
+[submodule "poolserver"]
+	path = poolserver
+	url = https://github.com/glencjones/poolserver.git
+[submodule "lnd-gateway"]
+	path = lnd-gateway
+	url = https://github.com/glencjones/lnd-gateway.git
+[submodule "gentoo-on-rpi-64bit"]
+	path = gentoo-on-rpi-64bit
+	url = https://github.com/glencjones/gentoo-on-rpi-64bit.git
+[submodule "nerd-fonts"]
+	path = nerd-fonts
+	url = https://github.com/glencjones/nerd-fonts.git
+[submodule "btcpool-ABANDONED"]
+	path = btcpool-ABANDONED
+	url = https://github.com/glencjones/btcpool-ABANDONED.git
+[submodule "awesome-openzeppelin"]
+	path = awesome-openzeppelin
+	url = https://github.com/glencjones/awesome-openzeppelin.git
+[submodule "equihash"]
+	path = equihash
+	url = https://github.com/glencjones/equihash.git
+[submodule "ln-operator.github.io"]
+	path = ln-operator.github.io
+	url = https://github.com/glencjones/ln-operator.github.io.git
+[submodule "equihashjs-verify"]
+	path = equihashjs-verify
+	url = https://github.com/glencjones/equihashjs-verify.git
+[submodule "cryptocurrency-pool-server"]
+	path = cryptocurrency-pool-server
+	url = https://github.com/glencjones/cryptocurrency-pool-server.git
+[submodule "solo-pool-deployment"]
+	path = solo-pool-deployment
+	url = https://github.com/glencjones/solo-pool-deployment.git
+[submodule "bun"]
+	path = bun
+	url = https://github.com/glencjones/bun.git
+[submodule "emacs-lisp-style-guide"]
+	path = emacs-lisp-style-guide
+	url = https://github.com/glencjones/emacs-lisp-style-guide.git
+[submodule "equihashverify"]
+	path = equihashverify
+	url = https://github.com/glencjones/equihashverify.git
+[submodule "node-grin-hashing"]
+	path = node-grin-hashing
+	url = https://github.com/glencjones/node-grin-hashing.git
+[submodule "alloy-website"]
+	path = alloy-website
+	url = https://github.com/glencjones/alloy-website.git
+[submodule "badges"]
+	path = badges
+	url = https://github.com/glencjones/badges.git
+[submodule "SwapReferenceMiner"]
+	path = SwapReferenceMiner
+	url = https://github.com/glencjones/SwapReferenceMiner.git
+[submodule "node-cuckaroo29s-hashing"]
+	path = node-cuckaroo29s-hashing
+	url = https://github.com/glencjones/node-cuckaroo29s-hashing.git
+[submodule "nheqminer"]
+	path = nheqminer
+	url = https://github.com/glencjones/nheqminer.git
+[submodule "cryptonote-explorer"]
+	path = cryptonote-explorer
+	url = https://github.com/glencjones/cryptonote-explorer.git
+[submodule "lnd-submarine-swaps"]
+	path = lnd-submarine-swaps
+	url = https://github.com/glencjones/lnd-submarine-swaps.git
+[submodule "glibc"]
+	path = glibc
+	url = https://github.com/glencjones/glibc.git
+[submodule "cryptonote-alloy-pool"]
+	path = cryptonote-alloy-pool
+	url = https://github.com/glencjones/cryptonote-alloy-pool.git
+[submodule "alloy-gui"]
+	path = alloy-gui
+	url = https://github.com/glencjones/alloy-gui.git
+[submodule "alloy-pool"]
+	path = alloy-pool
+	url = https://github.com/glencjones/alloy-pool.git
+[submodule "lnd-gui"]
+	path = lnd-gui
+	url = https://github.com/glencjones/lnd-gui.git
+[submodule "alloy-wallet-generator"]
+	path = alloy-wallet-generator
+	url = https://github.com/glencjones/alloy-wallet-generator.git
+[submodule "node-cryptonote-util"]
+	path = node-cryptonote-util
+	url = https://github.com/glencjones/node-cryptonote-util.git
+[submodule "zcash-cuda-miner"]
+	path = zcash-cuda-miner
+	url = https://github.com/glencjones/zcash-cuda-miner.git
+[submodule "wallet-key-tool"]
+	path = wallet-key-tool
+	url = https://github.com/glencjones/wallet-key-tool.git
+[submodule "node-tap"]
+	path = node-tap
+	url = https://github.com/glencjones/node-tap.git
+[submodule "fiat"]
+	path = fiat
+	url = https://github.com/glencjones/fiat.git
+[submodule "lnd-accounting"]
+	path = lnd-accounting
+	url = https://github.com/glencjones/lnd-accounting.git
+[submodule "lnd-probing"]
+	path = lnd-probing
+	url = https://github.com/glencjones/lnd-probing.git
+[submodule "lnd-graph"]
+	path = lnd-graph
+	url = https://github.com/glencjones/lnd-graph.git
+[submodule "caporal"]
+	path = caporal
+	url = https://github.com/glencjones/caporal.git
+[submodule "lnd-goldengate"]
+	path = lnd-goldengate
+	url = https://github.com/glencjones/lnd-goldengate.git
+[submodule "mynode"]
+	path = mynode
+	url = https://github.com/glencjones/mynode.git
+[submodule "lnd-runbooks"]
+	path = lnd-runbooks
+	url = https://github.com/glencjones/lnd-runbooks.git
+[submodule "lnd-charge"]
+	path = lnd-charge
+	url = https://github.com/glencjones/lnd-charge.git
+[submodule "lnd-rebalance"]
+	path = lnd-rebalance
+	url = https://github.com/glencjones/lnd-rebalance.git
+[submodule "lnd-paid-services"]
+	path = lnd-paid-services
+	url = https://github.com/glencjones/lnd-paid-services.git
+[submodule "lnd-suez"]
+	path = lnd-suez
+	url = https://github.com/glencjones/lnd-suez.git
+[submodule "lnd-telegram"]
+	path = lnd-telegram
+	url = https://github.com/glencjones/lnd-telegram.git
+[submodule "lnd-balanceofsatoshis"]
+	path = lnd-balanceofsatoshis
+	url = https://github.com/glencjones/lnd-balanceofsatoshis.git
+[submodule "lnd-lightning"]
+	path = lnd-lightning
+	url = https://github.com/glencjones/lnd-lightning.git
+[submodule "lnd-service"]
+	path = lnd-service
+	url = https://github.com/glencjones/lnd-service.git
+[submodule "oncrpc-win32"]
+	path = oncrpc-win32
+	url = https://github.com/glencjones/oncrpc-win32.git
+[submodule "play-gwt2"]
+	path = play-gwt2
+	url = https://github.com/glencjones/play-gwt2.git
+[submodule "libtirpc-lbx"]
+	path = libtirpc-lbx
+	url = https://github.com/glencjones/libtirpc-lbx.git
+[submodule "pggy"]
+	path = pggy
+	url = https://github.com/glencjones/pggy.git
+[submodule "biicodizer"]
+	path = biicodizer
+	url = https://github.com/glencjones/biicodizer.git
+[submodule "bii-releases"]
+	path = bii-releases
+	url = https://github.com/glencjones/bii-releases.git
+[submodule "client"]
+	path = client
+	url = https://github.com/glencjones/client.git
+[submodule "packages"]
+	path = packages
+	url = https://github.com/glencjones/packages.git
+[submodule "common"]
+	path = common
+	url = https://github.com/glencjones/common.git
+[submodule "merkle-bitcoin"]
+	path = merkle-bitcoin
+	url = https://github.com/glencjones/merkle-bitcoin.git
+[submodule "biicode"]
+	path = biicode
+	url = https://github.com/glencjones/biicode.git
+[submodule "bii-server"]
+	path = bii-server
+	url = https://github.com/glencjones/bii-server.git
+[submodule "swing-beansbinding"]
+	path = swing-beansbinding
+	url = https://github.com/glencjones/swing-beansbinding.git
+[submodule "portage"]
+	path = portage
+	url = https://github.com/glencjones/portage.git
