@@ -385,3 +385,6 @@
 [submodule "portage"]
 	path = portage
 	url = https://github.com/glencjones/portage.git
+[submodule "lnd-operator.github.io"]
+	path = lnd-operator.github.io
+	url = git@github.com:glencjones/lnd-operator.github.io.git
